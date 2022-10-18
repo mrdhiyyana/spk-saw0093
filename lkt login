@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T08:19:44.993Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="1lPBOOfhM4UI8xfJjte6" type="github"><diagram id="I5qFGoS5VeSPnIYCZy3p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T08:46:46.263Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="K-bxTIJPTZIPzpa29UsJ" version="20.4.1" type="github">
+  <diagram id="I5qFGoS5VeSPnIYCZy3p" name="Halaman-1">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DW5-4RpbySPBWtmQI5w--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="310" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--2" value="Sistem Pendukung Keputusan Pemilihan Karyawan Terbaik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="324" y="140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="305" width="122" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--6" value="" style="image;image=img/lib/atlassian/Crowd_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="381" y="200" width="66" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="335" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--8" value="Username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--9" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="316" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--10" value="Copyright&amp;nbsp; &amp;nbsp; &amp;nbsp;2022 Mardhiyyana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="309" y="430" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW5-4RpbySPBWtmQI5w--13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-copyright-128.png" vertex="1" parent="1">
+          <mxGeometry x="381" y="439" width="12" height="12" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
