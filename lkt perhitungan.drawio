@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T19:36:25.494Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6WaqrRL_sFiMc_Jhh4fZ" version="20.4.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-18T19:37:05.337Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qeLtvwkdcl9po_2j_Kkt" version="20.4.1" type="github" pages="5">
   <diagram id="6rKl30hIbtVixvo6WM_1" name="Halaman-1">
     <mxGraphModel dx="1664" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1343,8 +1343,8 @@
         <mxCell id="dIQkjQsXlr_Wvsjuxr4c-13" value="Keluar" style="strokeColor=inherit;fillColor=#FF0000;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;sketch=0;align=center;labelBackgroundColor=none;" vertex="1" parent="dIQkjQsXlr_Wvsjuxr4c-8">
           <mxGeometry y="172" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIQkjQsXlr_Wvsjuxr4c-14" value="Data Perhiyungan" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#0085FC;shadow=1;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="dIQkjQsXlr_Wvsjuxr4c-1">
-          <mxGeometry x="584.5" y="145" width="115" height="35" as="geometry" />
+        <mxCell id="dIQkjQsXlr_Wvsjuxr4c-14" value="Data Perhitungan" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#0085FC;shadow=1;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="dIQkjQsXlr_Wvsjuxr4c-1">
+          <mxGeometry x="584.5" y="140" width="115" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dIQkjQsXlr_Wvsjuxr4c-15" value="&lt;h4 style=&quot;font-size: 22px;&quot;&gt;Data Hasil Akhir&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="dIQkjQsXlr_Wvsjuxr4c-1">
           <mxGeometry x="160" y="180" width="530" height="30" as="geometry" />
@@ -1492,7 +1492,7 @@
           <mxGeometry x="1120" y="230" width="20" height="330" as="geometry" />
         </mxCell>
         <mxCell id="4cC5nkNkSOD2_CRtq9gN-0" value="Data Hasil Akhir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontSize=14;fontColor=#ffffff;sketch=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="dIQkjQsXlr_Wvsjuxr4c-1">
-          <mxGeometry x="799.75" y="140" width="125.5" height="30" as="geometry" />
+          <mxGeometry x="799.75" y="142.5" width="125.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
