@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T17:42:13.553Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NGGXPcEa54VeYmH6uhCz" version="20.5.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-21T17:43:02.715Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9VE_-Mb7BounhILhiwoa" version="20.5.0" type="github" pages="7">
   <diagram id="6rKl30hIbtVixvo6WM_1" name="Data Penilaian">
     <mxGraphModel dx="1240" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1182,7 +1182,7 @@
             <mxRectangle width="56" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y6BLix1IHMzDNhrsuQRv-41" value="Aqila Maulidia" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;fontFamily=Helvetica;fontSize=22;fontColor=#000000;align=left;" vertex="1" parent="y6BLix1IHMzDNhrsuQRv-39">
+        <mxCell id="y6BLix1IHMzDNhrsuQRv-41" value="Aqila Maulidya" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;shadow=0;labelBackgroundColor=none;strokeColor=#E6E6E6;fontFamily=Helvetica;fontSize=22;fontColor=#000000;align=left;" vertex="1" parent="y6BLix1IHMzDNhrsuQRv-39">
           <mxGeometry x="56" width="346" height="40" as="geometry">
             <mxRectangle width="346" height="40" as="alternateBounds" />
           </mxGeometry>
