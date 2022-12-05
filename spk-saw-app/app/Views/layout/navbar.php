@@ -16,27 +16,23 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">Kriteria</a>
+          <a class="nav-link" href="<?= base_url('kriteria')?>">Kriteria</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">Periode</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="#">Kriteria</a>
+          <a class="nav-link" href="<?= base_url('periode')?>">Periode</a>
         </li>
        
         <li class="nav-item">
-          <a class="nav-link" href="#">Kriteria-Periode</a>
+          <a class="nav-link" href="<?= base_url('kriperiod')?>">Kriteria-Periode</a>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="#">Penilaian</a>
+          <a class="nav-link" href="<?= base_url('penilaian')?>">Penilaian</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">Laporan</a>
+          <a class="nav-link" href="<?= base_url('laporan')?>">Laporan</a>
         </li>
 
       </ul>

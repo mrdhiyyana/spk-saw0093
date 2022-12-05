@@ -38,6 +38,16 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 $routes->get('/karyawan', 'Karyawan::index');
 $routes->get('/karyawan/add', 'Karyawan::add');
+$routes->get('/kriteria', 'Kriteria::index');
+$routes->get('/kriteria/add', 'Kriteria::add');
+$routes->get('/periode', 'Periode::index');
+$routes->get('/periode/add', 'Periode::add');
+$routes->get('/kriperiod', 'Kriperiod::index');
+$routes->get('/kriperiod/add', 'Kriperiod::add');
+$routes->get('/penilaian', 'Penilaian::index');
+$routes->get('/laporan', 'Laporan::index');
+
+
 
 /*
  * --------------------------------------------------------------------

@@ -75,48 +75,32 @@ input[type=submit]:hover {
 </style>
 
 <div class="container">
-<h1>Input Data Karyawan</h1>
+<h1>Input Data Kriteria</h1>
 <br>
   <form action="/action_page.php">
     <div class="row">
       <div class="col-25">
-        <label for="nip">NIP</label>
+        <label for="kriteria">Nama Kriteria</label>
       </div>
       <div class="col-75">
-        <input type="text" id="nip" name="nip" placeholder="Nomor Induk Pegawai..">
+        <input type="text" id="kriteria" name="kriteria" placeholder="Nama Kriteria..">
       </div>
     </div>
     <div class="row">
       <div class="col-25">
-        <label for="nama">Nama</label>
+        <label for="tipe">Tipe</label>
       </div>
       <div class="col-75">
-        <input type="text" id="nama" name="nama" placeholder="Nama Lengkap..">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-25">
-        <label for="jekel">Jenis Kelamin</label>
-      </div>
-      <div class="col-75">
-       <label><input type="radio" name="jenis_kelamin" value="L" /> Laki-laki</label>
-            <label><input type="radio" name="jenis_kelamin" value="P" /> Perempuan</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-25">
-        <label for="alamat">Alamat</label>
-      </div>
-      <div class="col-75">
-        <textarea id="alamat" name="alamat" placeholder="Alamat Lengkap.." style="height:200px"></textarea>
+       <label><input type="radio" name="tipe" value="b" /> B</label>
+            <label><input type="radio" name="tipe" value="c" /> C</label>
       </div>
     </div>
      <div class="row">
       <div class="col-25">
-        <label for="no_hp">No. Handphone</label>
+        <label for="bobot">bobot</label>
       </div>
       <div class="col-75">
-        <input type="text" id="no_hp" name="no_hp" placeholder="No. Handphone..">
+        <input type="number" id="bobot" name="bobot" placeholder="Bobot..">
       </div>
     </div>
     <br>
